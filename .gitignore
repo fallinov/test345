@@ -1,0 +1,3 @@
+# Fichier .gitignore
+# Ignorer le dossier des paramètres de WebStorm
+.idea
